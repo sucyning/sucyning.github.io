@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>sucyning</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
+        <link>http://example.com</link>
+        <author>
+          <name>sucyning</name>
+        </author>
+        <description></description>
+        <language>en</language>
+        <pubDate>Sat, 27 Jan 2024 22:56:20 +0800</pubDate>
+        <lastBuildDate>Sat, 27 Jan 2024 22:56:20 +0800</lastBuildDate>
+        <category term="web前端" />
+    </channel>
+</rss>
